@@ -1,6 +1,6 @@
-# 📢 독립 Version 0.2.1
+# 📢 독립
 
-#### 🔗 [독립 Version 0.2.1 즐기러가기](http://i5a501.p.ssafy.io/)
+#### 🔗 [독립 즐기러가기](https://doglive.co.kr)
 
 #### 💛 [독립 사용 설명서](<https://lab.ssafy.com/s05-webmobile1-sub3/S05P13A501/-/blob/release-0.2.0/exec/A501_%EB%8F%85%EB%A6%BD_%EC%82%AC%EC%9A%A9_%EC%84%A4%EB%AA%85%EC%84%9C(%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4).md>)
 
@@ -16,7 +16,8 @@
 > 서울 5반 1팀 견과류 🥜 조다운, 이상현, 이영주, 최혜원, 한승희
 
 <br>
-![image](https://user-images.githubusercontent.com/61124319/130741082-464f7394-f913-427e-885e-83f08c6f9a59.png)
+
+![image](https://user-images.githubusercontent.com/61124319/130741327-74d6b5dc-82b0-45e4-847b-d973818b305c.png)
 
 <br>
 
@@ -167,7 +168,7 @@
 |-----|-----|-----|------|----|-----|
 |Profile|![image](https://user-images.githubusercontent.com/61124319/130740694-34f9a3e5-f742-41cb-b752-c76f422b1d61.png)|![image](https://user-images.githubusercontent.com/61124319/130740722-616db638-688c-4196-959e-fe22a472dc3e.png)|![image](https://user-images.githubusercontent.com/61124319/130740752-b0009eb0-0b37-4ca9-a73b-af4546a638f0.png)|![image](https://user-images.githubusercontent.com/61124319/130740778-f09b08db-8b53-4766-8c70-aa3b350d284d.png)|![image](https://user-images.githubusercontent.com/61124319/130740827-ab576311-288f-46e4-bf53-9ef398ce8b53.png)|
 |Position|Frontend, Backend Develop & UI/UX|Backend Develop & CI/CD| 👑팀장 & Backend Develop & CI/CD|Backend Develop & CI/CD|Frontend & UI/UX|
-|Git|@zxd9857|@clleo97|@jodawooooon | @hiii456| @chengxxi|
+|Git|@kimkuan|@0JUUU|@jodawoooon | @hiii456| @chengxxi|
 
 <br><br>
 
