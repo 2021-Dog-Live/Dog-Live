@@ -168,7 +168,7 @@
 |-----|-----|-----|------|----|-----|
 |Profile|![image](https://user-images.githubusercontent.com/61124319/130740694-34f9a3e5-f742-41cb-b752-c76f422b1d61.png)|![image](https://user-images.githubusercontent.com/61124319/130740722-616db638-688c-4196-959e-fe22a472dc3e.png)|![image](https://user-images.githubusercontent.com/61124319/130740752-b0009eb0-0b37-4ca9-a73b-af4546a638f0.png)|![image](https://user-images.githubusercontent.com/61124319/130740778-f09b08db-8b53-4766-8c70-aa3b350d284d.png)|![image](https://user-images.githubusercontent.com/61124319/130740827-ab576311-288f-46e4-bf53-9ef398ce8b53.png)|
 |Position|Frontend, Backend Develop & UI/UX|Backend Develop & CI/CD| 👑팀장 & Backend Develop & CI/CD|Backend Develop & CI/CD|Frontend & UI/UX|
-|Git|@kimkuan|@0JUUU|@jodawoooon | @hiii456| @chengxxi|
+|Git|[@kimkuan](https://github.com/kimkuan)|[@0JUUU](https://github.com/0JUUU)|[@jodawoooon](https://github.com/jodawoooon)|[@hiii456](https://github.com/hiii456)|[@chengxxi](https://github.com/chengxxi)|
 
 <br><br>
 
