@@ -2,9 +2,7 @@
 
 #### 🔗 [독립 즐기러가기](https://doglive.co.kr)
 
-#### 💛 [독립 사용 설명서](<https://lab.ssafy.com/s05-webmobile1-sub3/S05P13A501/-/blob/release-0.2.0/exec/A501_%EB%8F%85%EB%A6%BD_%EC%82%AC%EC%9A%A9_%EC%84%A4%EB%AA%85%EC%84%9C(%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4).md>)
-
-#### 💻 [포팅 매뉴얼](https://lab.ssafy.com/s05-webmobile1-sub3/S05P13A501/-/blob/dev/exec/%ED%8F%AC%ED%8C%85_%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
+#### 💻 [포팅 매뉴얼](https://github.com/2021-Dog-Live/Dog-Live/blob/main/%EB%8F%85%EB%A6%BD_%EB%B9%8C%EB%93%9C%EB%B0%8F%EB%B0%B0%ED%8F%AC_%EA%B0%80%EC%9D%B4%EB%93%9C.md)
 
 #### 📺 [독립 UCC Full.ver](https://www.youtube.com/watch?v=0WWNJ1AWsgQ&t=7s)
 
