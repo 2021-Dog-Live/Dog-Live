@@ -1,0 +1,58 @@
+/* 공통으로 적용되어야할 css */
+@media (max-width: 700px) {
+  .main-container {
+    min-height: calc(100vh - 140px);
+  }
+}
+
+#app{
+  height: 100vh;
+}
+
+.main-wrapper {
+  min-height: calc(100vh - 140px) !important;
+  display: block !important;
+}
+
+:deep(section){
+  padding-bottom: 0rem !important;
+}
+
+.el-header {
+  padding: 0;
+}
+
+.el-header.main-header {
+  width: 100%;
+  display: block;
+  max-width: 100%;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  /*border-bottom: 1px solid #dcdfe6;*/
+}
+
+.main-sidebar {
+  height: 100%;
+  display: inline-block;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+.el-container {
+  padding-bottom: 0;
+}
+
+.main-container {
+  /* height: calc(100% - 70px); /* 전체 높이 - 헤더 높이 */
+  min-height: calc(100vh - 140px);
+}
+
+.el-footer.main-footer {
+  z-index: -1;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  border-top: 1px solid #dcdfe6;
+}
