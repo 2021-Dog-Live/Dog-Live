@@ -12,7 +12,7 @@ SSAFY 관통프로젝트 우수상 🥈
 
 ### 🔗 [독립 라이브 서비스 즐기러가기](https://doglive.co.kr)
 
-### 💻 [직접 실행해보기! 빌드 및 배포 가이드](https://github.com/jodawoooon/Dog-Live/blob/main/%EB%8F%85%EB%A6%BD_%EB%B9%8C%EB%93%9C%EB%B0%8F%EB%B0%B0%ED%8F%AC_%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+### 💻 [직접 실행해보기! 빌드 및 배포 가이드](https://github.com/2021-Dog-Live/Dog-Live/blob/master/exec/A501_%EB%8F%85%EB%A6%BD_%ED%8F%AC%ED%8C%85_%EB%A7%A4%EB%89%B4%EC%96%BC.md)
 
 ### 📺 [독립 UCC Full.ver](https://www.youtube.com/watch?v=0WWNJ1AWsgQ&t=7s)
 
